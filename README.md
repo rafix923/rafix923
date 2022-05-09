@@ -1,4 +1,6 @@
 ### Hi, I’m Rafael Lopes.
+
+<a href="https://www.linkedin.com/in/rafael-lopes-fullstack-developer/">![Linkedin](https://img.shields.io/badge/LinkedIn-blue??style=for-the-badge&logo=Linkedin&labelColor=blue)</a>
  
 👀 I am a lawyer in a career-changing to be a full-stack web developer.
 To achieve this goal, I started to study by myself in December 2021.
