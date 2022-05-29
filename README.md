@@ -6,10 +6,7 @@
 To achieve this goal, I started to study by myself in December 2021.
 But on March 28, 2022, I passed the exams for the full-stack development web course at Labenu.
 
-🌱 I’m currently interested in Frontend developer Jr. jobs that offer
-an intensive exchange with colleagues from all around the world,
-pleasant working atmosphere and
-Internal development opportunities.
+🌱 I’m currently interested in Frontend developer Jr. jobs that offer an intensive exchange with colleagues, pleasant working atmosphere and Internal development opportunities.
 
 💞️ I’m looking to collaborate on projects that have the potential to help people in their lives and turn the world into a better place to live.
 
