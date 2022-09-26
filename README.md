@@ -21,7 +21,8 @@ Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira p
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-### Alguns Fatos e Curiosidades Sobre Mim:
+### Alguns Fatos e Curiosidades Sobre Mim
+
 - Sou pai do Rodolpho
 - Sei ler partituras, toco violão e nas horas vagas estudo sozinho teclado
 - Gosto de jogos de corrida e simuladores de caminhões
