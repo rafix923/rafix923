@@ -2,10 +2,14 @@
 
 <a href="https://www.linkedin.com/in/rafael-lopes-fullstack-developer/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/RafaelL77859907">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
- 
+
 Meu primeiro contato com o desenvolvimento web foi em 2018, utilizando o wordpress para escrever um blog sobre o estudo da música. Naquela época eu ficava adimirado e me perguntando como era desenvolver templates do wordpress e páginas web do completo zero.
 
 Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira para ser um desenvolvedor full-stack e estou feliz, pois amo aprender e desenvolver novas habilidades.
+
+<div>
+<img src="https://blush.design/api/download?shareUri=_2IjHTdNy2WLooYb&c=Monochromatic_0%7E67c3cc-0.2%7E52dc82_Skin_0%7Eb18058-0.2%7Eb18058&w=800&h=800&fm=png" max-width="300rem" width="300rem" align="right">
+<div/>
 
 ### Stack e Ferramentas que Utilizo:
 
@@ -19,6 +23,16 @@ Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira p
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+
+## Estatísticas
+
+<div>
+<a href="https://github.com/rafix923">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafix923&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafix923&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 ### Alguns Fatos e Curiosidades Sobre Mim:
 - Sou pai do Rodolpho
 - Sei ler partituras, toco violão e nas horas vagas estudo sozinho teclado
@@ -29,11 +43,10 @@ Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira p
 
 Leu um livro que mudou seu mindset? Tem algum projeto em mente que gostaria de desenvolver colaborativamente?
 
-
-
-
-
 📫Sinta-se à vontade para entrar em contato comigo pelo LinkedIn ou enviando um email para: rafaellopes.dev@gmail.com
+
+
+
 <!---
 rafix923/rafix923 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
