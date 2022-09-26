@@ -27,7 +27,7 @@ Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira p
 - Amo ler livros e o primeiro que li foi aos 16 anos: 'O Mistério do Cinco Estrelas' (Marcos Rey) 
 - Faço parte da comunidade goodreads e o meu perfil é: https://www.goodreads.com/user/show/81398089-rafael
 
-Leu um livro que mudou seu mindset? Tem algum projeto em mente que gostaria de desenvolver colaborativamente?
+#### Leu um livro que mudou seu mindset? Tem algum projeto em mente que gostaria de desenvolver colaborativamente?
 
 📫Sinta-se à vontade para entrar em contato comigo pelo LinkedIn ou enviando um email para: rafaellopes.dev@gmail.com
 
