@@ -7,10 +7,6 @@ Meu primeiro contato com o desenvolvimento web foi em 2018, utilizando o wordpre
 
 Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira para ser um desenvolvedor full-stack e estou feliz, pois amo aprender e desenvolver novas habilidades.
 
-<div>
-<img src="https://blush.design/api/download?shareUri=_2IjHTdNy2WLooYb&c=Monochromatic_0%7E67c3cc-0.2%7E52dc82_Skin_0%7Eb18058-0.2%7Eb18058&w=800&h=800&fm=png" max-width="300rem" width="300rem" align="right">
-<div/>
-
 ### Stack e Ferramentas que Utilizo:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -22,16 +18,6 @@ Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira p
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-
-## Estatísticas
-
-<div>
-<a href="https://github.com/rafix923">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafix923&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafix923&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 
 ### Alguns Fatos e Curiosidades Sobre Mim:
 - Sou pai do Rodolpho
@@ -45,6 +31,13 @@ Leu um livro que mudou seu mindset? Tem algum projeto em mente que gostaria de d
 
 📫Sinta-se à vontade para entrar em contato comigo pelo LinkedIn ou enviando um email para: rafaellopes.dev@gmail.com
 
+## Estatísticas
+
+<div>
+<a href="https://github.com/rafix923">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafix923&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafix923&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 <!---
