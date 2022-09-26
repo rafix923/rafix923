@@ -7,7 +7,7 @@ Meu primeiro contato com o desenvolvimento web foi em 2018, utilizando o wordpre
 
 Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira para ser um desenvolvedor full-stack e estou feliz, pois amo aprender e desenvolver novas habilidades.
 
-### Stack e ferramentas que utilizo:
+### Stack e Ferramentas que Utilizo:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +19,7 @@ Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira p
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-### Alguns fatos e curiosidades sobre mim:
+### Alguns Fatos e Curiosidades Sobre Mim:
 - Sou pai do Rodolpho
 - Sei ler partituras, toco violão e nas horas vagas estudo sozinho teclado
 - Gosto de jogos de corrida e simuladores de caminhões
