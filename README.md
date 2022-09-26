@@ -1,4 +1,4 @@
-## Olá, Sou Rafael Lopes!
+# Olá, Sou Rafael Lopes!
 
 <a href="https://www.linkedin.com/in/rafael-lopes-fullstack-developer/">![Linkedin](https://img.shields.io/badge/LinkedIn-blue??style=for-the-badge&logo=Linkedin&labelColor=blue)</a>
  
