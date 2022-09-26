@@ -1,18 +1,26 @@
-### Hi, I’m Rafael Lopes.
+## Olá, Sou Rafael Lopes!
 
 <a href="https://www.linkedin.com/in/rafael-lopes-fullstack-developer/">![Linkedin](https://img.shields.io/badge/LinkedIn-blue??style=for-the-badge&logo=Linkedin&labelColor=blue)</a>
  
-👀 I am a lawyer in a career-changing to be a full-stack web developer.
-To achieve this goal, I started to study by myself in December 2021.
-But on March 28, 2022, I passed the exams for the full-stack development web course at Labenu.
+Meu primeiro contato com o desenvolvimento web foi em 2018, utilizando o wordpress para escrever um blog sobre o estudo da música. Naquela época eu ficava adimirado e me perguntando como era desenvolver templates do wordpress e páginas web do completo zero.
 
-🌱 I’m currently interested in Frontend developer Jr. jobs that offer an intensive exchange with colleagues, pleasant working atmosphere and Internal development opportunities.
+Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira para ser um desenvolvedor full-stack e estou feliz, pois amo aprender e desenvolver novas habilidades.
 
-💞️ I’m looking to collaborate on projects that have the potential to help people in their lives and turn the world into a better place to live.
+### Alguns fatos e curiosidades sobre mim:
+- Sou pai do Rodolpho
+- Sei ler partituras, toco violão e nas horas vagas estudo sozinho teclado
+- Gosto de jogos de corrida e simuladores de caminhões
+- Sou apaixonado por tecnologia e internet
+- Amo ler livros e o primeiro que li foi aos 16 anos: 'O Mistério do Cinco Estrelas' (Marcos Rey) 
+- Faço parte da comunidade goodreads e o meu perfil é: https://www.goodreads.com/user/show/81398089-rafael
 
-I love to go for a walk in the evenings at the park. I can't help but mention that I also love to play acoustic guitar and read books. Then, if you ever had read a book that changed your life, let me know. I would love to read it also!
+Leu um livro que mudou seu mindset? Tem algum projeto em mente que gostaria de desenvolver colaborativamente?
 
-📫 You can reach me by sending an email to rafaellopes.dev@gmail.com
+
+
+
+
+📫Sinta-se à vontade para entrar em contato comigo pelo LinkedIn ou enviando um email para: rafaellopes.dev@gmail.com
 <!---
 rafix923/rafix923 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
