@@ -7,6 +7,8 @@ Meu primeiro contato com o desenvolvimento web foi em 2018, utilizando o wordpre
 
 Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira para ser um desenvolvedor full-stack e estou feliz com a minha decisão, pois amo aprender e desenvolver novas habilidades.
 
+E atualmente estou estudando Desenvolvimento Web Backend pelo bootcamp de Desenvolvimento Web Full-stack da Labenu.
+
 ### Stack e Ferramentas que Utilizo:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
