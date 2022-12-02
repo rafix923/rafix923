@@ -36,6 +36,8 @@ E atualmente estou estudando Desenvolvimento Web Backend pelo bootcamp de Desenv
 
 📫Sinta-se à vontade para entrar em contato comigo pelo LinkedIn ou enviando um email para: rafaellopes.dev@gmail.com
 
+<a href="https:https://www.linkedin.com/in/rafael-lopes-desenvolvedor-frontend/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 ## Estatísticas
 
 <div>
