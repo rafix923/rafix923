@@ -1,6 +1,6 @@
 # Olá, Sou Rafael Lopes!
 
-<a href="https://www.linkedin.com/in/rafael-lopes-desenvolvedor-frontend/?locale=pt_BR">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="[https://www.linkedin.com/in/rafael-lopes-desenvolvedor-frontend/?locale=pt_BR](https://www.linkedin.com/in/rafael-lopes-desenvolvedor-fullstack/)">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/RafaelL77859907">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
 Meu primeiro contato com o desenvolvimento web foi em 2018, utilizando o wordpress para escrever um blog sobre o estudo da música. Naquela época eu ficava admirado e me perguntando como era desenvolver templates do wordpress e páginas web do completo zero.
