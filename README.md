@@ -7,7 +7,7 @@ Meu primeiro contato com o desenvolvimento web foi em 2018, utilizando o wordpre
 
 Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira para ser um desenvolvedor full-stack e estou feliz com a minha decisão, pois amo aprender e desenvolver novas habilidades.
 
-Atualmente estou participando da construção de um projeto open source chamado tabnews (clone), através do curso.dev, que é liderado pelo programador e fundador do tabnews, Filipe Dechamps.
+Atualmente estou participando da construção de um projeto open source chamado tabnews (clone), através do curso.dev, que é liderado pelo programador e fundador da tabnews, Filipe Dechamps.
 
 ### Principal Stack e Ferramentas que Utilizo:
 
