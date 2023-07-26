@@ -9,7 +9,7 @@ Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira p
 
 Atualmente estou participando da construção de um projeto open source chamado tabnews (clone), através do curso.dev, que é liderado pelo programador e fundador do tabnews, Filipe Dechamps.
 
-### Stack e Ferramentas que Utilizo:
+### Principal Stack e Ferramentas que Utilizo:
 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
