@@ -7,7 +7,7 @@ Meu primeiro contato com o desenvolvimento web foi em 2018, utilizando o wordpre
 
 Em dezembro de 2021 eu decidi me dedicar 100% na minha transição de carreira para ser um desenvolvedor full-stack e estou feliz com a minha decisão, pois amo aprender e desenvolver novas habilidades.
 
-E atualmente estou estudando Desenvolvimento Web Backend pelo bootcamp de Desenvolvimento Web Full-stack da Labenu.
+Atualmente estou participando da construção de um projeto open source chamado tabnews (clone), através do curso.dev, que é liderado pelo programador e fundador do tabnews, Filipe Dechamps.
 
 ### Stack e Ferramentas que Utilizo:
 
