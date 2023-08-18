@@ -29,7 +29,7 @@ Atualmente estou participando da construção de um projeto open source chamado 
 - Sei ler partituras, toco violão e nas horas vagas estudo sozinho teclado
 - Gosto de jogos de corrida e simuladores de caminhões
 - Sou apaixonado por tecnologia e internet
-- Amo ler livros e o primeiro que li foi aos 16 anos: 'O Mistério do Cinco Estrelas' (Marcos Rey) 
+- Amo ler livros e o primeiro que li foi aos 16 anos: 'O Mistério do Cinco Estrelas' (Marcos Rey). </br>Desde então, ler faz parte da minha rotina 
 - Faço parte da comunidade goodreads e o meu perfil é: https://www.goodreads.com/user/show/81398089-rafael
 
 #### Leu um livro que mudou seu mindset? Tem algum projeto em mente que gostaria de desenvolver colaborativamente?
