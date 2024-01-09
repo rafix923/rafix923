@@ -34,7 +34,6 @@ Sejam bem vindos ao meu GitHub e fiquem à vontade para entrar em contato pelas 
 - Gosto de jogos de corrida e simuladores de caminhões
 - Sou apaixonado por tecnologia e internet
 - Amo ler livros e o primeiro que li foi aos 16 anos: 'O Mistério do Cinco Estrelas' (Marcos Rey). </br>Desde então, ler faz parte da minha rotina 
-- Faço parte da comunidade goodreads e o meu perfil é: https://www.goodreads.com/user/show/81398089-rafael
 
 #### Leu um livro que mudou seu mindset? Tem algum projeto em mente que gostaria de desenvolver colaborativamente?
 
